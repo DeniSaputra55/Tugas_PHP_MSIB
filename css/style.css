@@ -1,0 +1,21 @@
+table{
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+    background-color: aqua;
+}
+.tabel, td {
+    border: 1px solid #999;
+    padding: 8px 20px;
+}
+
+input[type="submit"] {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
