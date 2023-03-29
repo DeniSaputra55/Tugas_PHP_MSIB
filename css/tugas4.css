@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(25, 224, 178);
+}
+
+.form{
+    border: 2px solid #125AFF ;
+    width: 60%;
+    margin-top: 1%;
+    
+}
+
+.form table{
+    color: rgb(14, 13, 13);
+}
+
+.output{
+    border: 2px solid #125AFF ;
+    width: 60%;
+    margin-top: 1%;
+    
+}
